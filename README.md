@@ -44,20 +44,23 @@
 <h3><code>> ANALYTICS_DASHBOARD.exe</code></h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/obstinix/obstinix/main/profile-summary-card-output/radical/profile-details.svg" alt="Profile Details" />
+  <img src="https://komarev.com/ghpvc/?username=obstinix&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge" alt="Views" />
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=obstinix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obstinix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Top Langs" />
+  
   <br/>
-  <img src="https://raw.githubusercontent.com/obstinix/obstinix/main/profile-summary-card-output/radical/icons.svg" alt="Icons" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/obstinix/obstinix/main/profile-summary-card-output/radical/productive-time.svg" alt="Productive Time" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obstinix&theme=radical&hide_border=true&background=0d1117" alt="Streak" />
 </div>
 
 <h3><code>> LEETCODE_STATS.log</code></h3>
 <div align="center">
-  <a href="https://leetcode.com/obstinix">
-    <img src="https://img.shields.io/badge/LeetCode-Solved_Questions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <br/><br/>
   <img src="https://leetcard.jacoblin.cool/obstinix?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
+  <br/>
+  <img src="https://leetcard.jacoblin.cool/obstinix?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </div>
 
 <h3><code>> CHESS_ENGINE.core</code></h3>
