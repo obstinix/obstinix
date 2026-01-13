@@ -59,7 +59,7 @@
 <h3><code>> CHESS_ENGINE.core</code></h3>
 <div align="left">
   <a href="https://www.chess.com/member/obstinixx">
-    <img src="https://img.shields.io/badge/Chess_Rating-1200_(Rapid)-659359?style=for-the-badge&logo=chess.com&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chess_Rating-1700_(Rapid)-659359?style=for-the-badge&logo=chess.com&logoColor=white" />
   </a>
 </div>
 
