@@ -73,7 +73,17 @@
 
 ### `> CHESS_ENGINE.core`
 
+<div align="left">
+<a href="https://www.chess.com/member/obstinixx">
+<img src="https://www.google.com/search?q=https://github-readme-chess-stats.vercel.app/api%3Fusername%3Dobstinixx%26theme%3Ddark%26bg_color%3D0d1117%26title_color%3D00FF9C%26text_color%3Dc9d1d9%26icon_color%3Dff003c%26hide_border%3Dtrue" alt="Chess Stats" />
+</a>
+</div>
+
 ### `> CONTRIBUTION_SNAKE.gif`
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github.com/obstinix/obstinix/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ### `> SKILL_TREE.map`
 
@@ -157,7 +167,3 @@
 <code style="color: #00FF9C;">obstinix@system:~$</code>
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3ZDMzZDMwZDM1ZDM3ZDM5ZDMxZDMzZDM1ZDM3ZDM5ZDMxZDMzZDM1/3o7bu3XilJ5BOiSGic/giphy.gif" width="15" height="15" alt="cursor">
 </p>
-
-```
-
-```
