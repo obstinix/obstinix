@@ -44,15 +44,11 @@
 <h3><code>> ANALYTICS_DASHBOARD.exe</code></h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=obstinix&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge" alt="Views" />
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=obstinix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obstinix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Top Langs" />
-  
+  <img src="https://github.com/obstinix/obstinix/blob/main/profile-summary-card-output/radical/profile-details.svg" alt="Profile Details" />
   <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obstinix&theme=radical&hide_border=true&background=0d1117" alt="Streak" />
+  <img src="https://github.com/obstinix/obstinix/blob/main/profile-summary-card-output/radical/icons.svg" alt="Icons" />
+  <br/>
+  <img src="https://github.com/obstinix/obstinix/blob/main/profile-summary-card-output/radical/productive-time.svg" alt="Productive Time" />
 </div>
 
 <h3><code>> LEETCODE_STATS.log</code></h3>
@@ -65,7 +61,7 @@
 <h3><code>> CHESS_ENGINE.core</code></h3>
 <div align="left">
   <a href="https://www.chess.com/member/obstinixx">
-    <img src="https://github-readme-chess-stats.vercel.app/api?username=obstinixx&theme=dark&hide_border=true&bg_color=0d1117" alt="Chess Stats" />
+    <img src="https://img.shields.io/badge/Chess.com-Play_Now-659359?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Profile" />
   </a>
 </div>
 
