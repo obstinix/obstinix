@@ -47,12 +47,12 @@
   <img src="https://komarev.com/ghpvc/?username=obstinix&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge" alt="Views" />
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=obstinix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=ff003c" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obstinix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=obstinix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obstinix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Top Langs" />
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obstinix&theme=radical&hide_border=true&background=0d1117&ring=ff003c&fire=00FF9C&currStreakLabel=00FF9C" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obstinix&theme=radical&hide_border=true&background=0d1117" alt="Streak" />
 </div>
 
 <h3><code>> LEETCODE_STATS.log</code></h3>
@@ -65,7 +65,7 @@
 <h3><code>> CHESS_ENGINE.core</code></h3>
 <div align="left">
   <a href="https://www.chess.com/member/obstinixx">
-    <img src="https://github-readme-chess-stats.vercel.app/api?username=obstinixx&theme=dark&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9&icon_color=ff003c&hide_border=true" alt="Chess Stats" />
+    <img src="https://github-readme-chess-stats.vercel.app/api?username=obstinixx&theme=dark&hide_border=true&bg_color=0d1117" alt="Chess Stats" />
   </a>
 </div>
 
