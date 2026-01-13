@@ -44,30 +44,32 @@
 <h3><code>> ANALYTICS_DASHBOARD.exe</code></h3>
 
 <div align="center">
-  <img src="https://github.com/obstinix/obstinix/blob/main/profile-summary-card-output/radical/profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/obstinix/obstinix/main/profile-summary-card-output/radical/profile-details.svg" alt="Profile Details" />
   <br/>
-  <img src="https://github.com/obstinix/obstinix/blob/main/profile-summary-card-output/radical/icons.svg" alt="Icons" />
+  <img src="https://raw.githubusercontent.com/obstinix/obstinix/main/profile-summary-card-output/radical/icons.svg" alt="Icons" />
   <br/>
-  <img src="https://github.com/obstinix/obstinix/blob/main/profile-summary-card-output/radical/productive-time.svg" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/obstinix/obstinix/main/profile-summary-card-output/radical/productive-time.svg" alt="Productive Time" />
 </div>
 
 <h3><code>> LEETCODE_STATS.log</code></h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/obstinix?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
-  <br/>
+  <a href="https://leetcode.com/obstinix">
+    <img src="https://img.shields.io/badge/LeetCode-Solved_Questions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <br/><br/>
   <img src="https://leetcard.jacoblin.cool/obstinix?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
 </div>
 
 <h3><code>> CHESS_ENGINE.core</code></h3>
 <div align="left">
   <a href="https://www.chess.com/member/obstinixx">
-    <img src="https://img.shields.io/badge/Chess.com-Play_Now-659359?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Profile" />
+    <img src="https://img.shields.io/badge/Chess.com-PLAY_NOW-659359?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Profile" />
   </a>
 </div>
 
 <h3><code>> CONTRIBUTION_SNAKE.gif</code></h3>
 <div align="center">
-  <img src="https://github.com/obstinix/obstinix/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/obstinix/obstinix/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <h3><code>> SKILL_TREE.map</code></h3>
