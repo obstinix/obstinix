@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+ssh+obstinix%40github;%3E+Initiating+Uplink...;%3E+User%3A+Piyush+(obstinix);%3E+Role%3A+Tech+Creator" alt="Typing SVG" />
 </div>
@@ -12,12 +13,6 @@
 
 <div align="center">
 <code>PIYUSH :: obstinix</code>
-</div>
-
-<div align="center">
-<code>
-"I build cool stuff every day, from code to creative experiments."
-</code>
 </div>
 
 <br />
@@ -36,9 +31,10 @@
 
 <div align="center">
   <h3><code>> ACHIEVEMENTS.dat</code></h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=obstinix&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Achievement-Arctic_Code_Vault-0077b5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Achievement-Pull_Shark_2x-ff003c?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Achievement-Quickdraw-00FF9C?style=for-the-badge&logo=github&logoColor=black" />
+  <img src="https://img.shields.io/badge/Achievement-YOLO_Committer-yellow?style=for-the-badge&logo=github&logoColor=black" />
 </div>
 
 <h3><code>> ANALYTICS_DASHBOARD.exe</code></h3>
@@ -47,32 +43,24 @@
   <img src="https://komarev.com/ghpvc/?username=obstinix&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge" alt="Views" />
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=obstinix&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obstinix&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="Top Langs" />
-  
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obstinix&theme=radical&hide_border=true&background=0d1117" alt="Streak" />
+  <img src="https://img.shields.io/badge/Total_Commits-1.2k-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117&color=00FF9C" />
+  <img src="https://img.shields.io/badge/PRs_Merged-45-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117&color=00FF9C" />
+  <img src="https://img.shields.io/badge/Issues_Opened-23-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117&color=00FF9C" />
+  <img src="https://img.shields.io/badge/Repositories-15-0d1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0d1117&color=00FF9C" />
 </div>
 
 <h3><code>> LEETCODE_STATS.log</code></h3>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/obstinix?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap" />
-  <br/>
-  <img src="https://leetcard.jacoblin.cool/obstinix?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+  <img src="https://img.shields.io/badge/LeetCode-Solved:_200+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rank-Top_15%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streak-Active-green?style=for-the-badge&logo=leetcode&logoColor=black" />
 </div>
 
 <h3><code>> CHESS_ENGINE.core</code></h3>
 <div align="left">
   <a href="https://www.chess.com/member/obstinixx">
-    <img src="https://img.shields.io/badge/Chess.com-PLAY_NOW-659359?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Profile" />
+    <img src="https://img.shields.io/badge/Chess_Rating-1200_(Rapid)-659359?style=for-the-badge&logo=chess.com&logoColor=white" />
   </a>
-</div>
-
-<h3><code>> CONTRIBUTION_SNAKE.gif</code></h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/obstinix/obstinix/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <h3><code>> SKILL_TREE.map</code></h3>
