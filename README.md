@@ -36,54 +36,15 @@
 
 ```
 
-<div align="center">
-<h3>`&gt; ACHIEVEMENTS.dat`</h3>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dobstinix%26theme%3Dradical%26no-frame%3Dtrue%26margin-w%3D15" alt="obstinix" />
-</a>
-</div>
+### `> ACHIEVEMENTS.dat`
 
 ### `> ANALYTICS_DASHBOARD.exe`
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dobstinix%26label%3DPROFILE%2BVIEWS%26color%3Dff003c%26style%3Dfor-the-badge" alt="obstinix" />
-
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dobstinix%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF9C%26icon_color%3Dff003c" height="180" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dobstinix%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0d1117%26title_color%3D00FF9C" height="180" alt="Top Langs" />
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dobstinix%26theme%3Dradical%26hide_border%3Dtrue%26background%3D0d1117%26ring%3Dff003c%26fire%3D00FF9C%26currStreakLabel%3D00FF9C" alt="Streak" />
-</div>
-
 ### `> LEETCODE_STATS.log`
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://leetcard.jacoblin.cool/obstinix%3Ftheme%3Ddark%26font%3DFira%2520Code" alt="LeetCode Stats" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://leetcard.jacoblin.cool/obstinix%3Ftheme%3Ddark%26font%3DFira%2520Code%26ext%3Dheatmap" alt="LeetCode Heatmap" />
-</div>
 
 ### `> CHESS_ENGINE.core`
 
-<div align="left">
-<a href="https://www.chess.com/member/obstinixx">
-<img src="https://www.google.com/search?q=https://github-readme-chess-stats.vercel.app/api%3Fusername%3Dobstinixx%26theme%3Ddark%26bg_color%3D0d1117%26title_color%3D00FF9C%26text_color%3Dc9d1d9%26icon_color%3Dff003c%26hide_border%3Dtrue" alt="Chess Stats" />
-</a>
-</div>
-
 ### `> CONTRIBUTION_SNAKE.gif`
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github.com/obstinix/obstinix/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ### `> SKILL_TREE.map`
 
@@ -102,7 +63,7 @@
 
 ### `> ALL_MODULES_LOADED`
 
-<div align="center">
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -139,31 +100,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-</div>
+</p>
 
 ### `> NETWORK_PORTS.open`
-
-<div align="left">
-
-<a href="mailto:obstinix@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/></a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/piyushpandey23"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/></a>
-<a href="https://twitter.com/obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite"/></a>
-<a href="https://instagram.com/ig_obstinate"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite"/></a>
-<a href="https://medium.com/@obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite"/></a>
-<a href="https://linktr.ee/piyushxpandey"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Linktree-39E09B%3Fstyle%3Dfor-the-badge%26logo%3Dlinktree%26logoColor%3Dwhite"/></a>
-
-<a href="https://www.google.com/search?q=https://leetcode.com/obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3Dleetcode%26logoColor%3Dwhite"/></a>
-<a href="https://codeforces.com/profile/obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Codeforces-1F8ACB%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3Dwhite"/></a>
-<a href="https://www.codechef.com/users/obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/CodeChef-5B4638%3Fstyle%3Dfor-the-badge%26logo%3Dcodechef%26logoColor%3Dwhite"/></a>
-<a href="https://www.hackerrank.com/obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackerRank-2EC866%3Fstyle%3Dfor-the-badge%26logo%3Dhackerrank%26logoColor%3Dwhite"/></a>
-<a href="https://auth.geeksforgeeks.org/user/obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GeeksforGeeks-298D35%3Fstyle%3Dfor-the-badge%26logo%3Dgeeksforgeeks%26logoColor%3Dwhite"/></a>
-<a href="https://kaggle.com/obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3Dkaggle%26logoColor%3Dwhite"/></a>
-<a href="https://codesandbox.com/obstinix"><img src="https://www.google.com/search?q=https://img.shields.io/badge/CodeSandbox-151515%3Fstyle%3Dfor-the-badge%26logo%3Dcodesandbox%26logoColor%3Dwhite"/></a>
-
-</div>
 
 <br />
 <p align="left">
 <code style="color: #00FF9C;">obstinix@system:~$</code>
 <img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q3ZDMzZDMwZDM1ZDM3ZDM5ZDMxZDMzZDM1ZDM3ZDM5ZDMxZDMzZDM1/3o7bu3XilJ5BOiSGic/giphy.gif" width="15" height="15" alt="cursor">
 </p>
+
+```
+
+```
