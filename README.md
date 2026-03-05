@@ -1,10 +1,9 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+ssh+obstinix%40github;%3E+Initiating+Uplink...;%3E+User%3A+Piyush+(obstinix);%3E+Role%3A+Tech+Creator" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/obstinix/obstinix/main/ppoly2p.png" width="250" alt="Obstinix Avatar" />
+  <img src="https://raw.githubusercontent.com/obstinix/obstinix/main/batmanxobsti.jpg" width="250" alt="Obstinix Avatar" />
 </div>
 
 <div align="center">
