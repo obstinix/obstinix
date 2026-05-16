@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="340" viewBox="0 0 860 340">
+<rect width="860" height="340" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="430" y="28" text-anchor="middle" font-family="monospace" font-size="15" fill="#e6edf3" font-weight="bold">&#9823; Chess Ratings &#8212; Chess.com vs Lichess</text>
+<text x="430" y="46" text-anchor="middle" font-family="monospace" font-size="11" fill="#8b949e">obstinixx @ chess.com  &#183;  piyushggs @ lichess.org</text>
+<rect x="60" y="54" width="12" height="12" rx="2" fill="#FFD700"/>
+<text x="76" y="65" font-family="monospace" font-size="11" fill="#8b949e">Chess.com</text>
+<rect x="160" y="54" width="12" height="12" rx="2" fill="#00FF9C"/>
+<text x="176" y="65" font-family="monospace" font-size="11" fill="#8b949e">Lichess</text>
+<line x1="60" y1="260" x2="830" y2="260" stroke="#21262d" stroke-width="0.5"/><text x="54" y="264" text-anchor="end" font-family="monospace" font-size="10" fill="#8b949e">1400</text>
+<line x1="60" y1="220" x2="830" y2="220" stroke="#21262d" stroke-width="0.5"/><text x="54" y="224" text-anchor="end" font-family="monospace" font-size="10" fill="#8b949e">1600</text>
+<line x1="60" y1="180" x2="830" y2="180" stroke="#21262d" stroke-width="0.5"/><text x="54" y="184" text-anchor="end" font-family="monospace" font-size="10" fill="#8b949e">1800</text>
+<line x1="60" y1="140" x2="830" y2="140" stroke="#21262d" stroke-width="0.5"/><text x="54" y="144" text-anchor="end" font-family="monospace" font-size="10" fill="#8b949e">2000</text>
+<line x1="60" y1="100" x2="830" y2="100" stroke="#21262d" stroke-width="0.5"/><text x="54" y="104" text-anchor="end" font-family="monospace" font-size="10" fill="#8b949e">2200</text>
+
+<line x1="60" y1="280" x2="830" y2="280" stroke="#21262d" stroke-width="1"/>
+<rect x="100" y="315.2" width="50" height="-35.2" rx="3" fill="#FFD700" opacity="0.9"/><text x="125" y="310.2" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1124</text>
+<rect x="160" y="223.4" width="50" height="56.6" rx="3" fill="#00FF9C" opacity="0.9"/><text x="185" y="218.4" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1583</text>
+<text x="155" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Bullet</text>
+<rect x="292" y="299.8" width="50" height="-19.8" rx="3" fill="#FFD700" opacity="0.9"/><text x="317" y="294.8" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1201</text>
+<rect x="352" y="203.2" width="50" height="76.8" rx="3" fill="#00FF9C" opacity="0.9"/><text x="377" y="198.2" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1684</text>
+<text x="347" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Blitz</text>
+<rect x="485" y="218.6" width="50" height="61.4" rx="3" fill="#FFD700" opacity="0.9"/><text x="510" y="213.6" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1607</text>
+<rect x="545" y="133" width="50" height="147" rx="3" fill="#00FF9C" opacity="0.9"/><text x="570" y="128" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2035</text>
+<text x="540" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Rapid</text>
+<rect x="717" y="110" width="50" height="170" rx="3" fill="#00FF9C" opacity="0.9"/><text x="742" y="105" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2150</text>
+<text x="732" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Classical</text>
+</svg>
