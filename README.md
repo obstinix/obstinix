@@ -61,22 +61,27 @@
 <!--   IDENTITY MATRIX                                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### > IDENTITY_MATRIX.sys
+<div align="center">
+  <h2>私のプロフィールへようこそ !!</h2>
+</div>
 
-`	ext
-system_profile --fetch
-======================================================================
-NAME       : Piyush Pandey
-DOMAINS    : Full-Stack Web · DevOps · Cloud-Native Architecture
-STACK      : Next.js · Node.js · Go · Rust · Python
-FOCUS      : Scalable Microservices · Distributed Systems
-INTERESTS  : Open Source · Dev-Tools · High-Performance Backends
-INFRA      : Kubernetes · Docker · CI/CD Pipelines · AWS
-AI/ML      : PyTorch · TensorFlow · Applied Machine Learning
-SECURITY   : System Hardening · Application Security
-LOCATION   : India 🇮🇳
-======================================================================
-`
+### `> IDENTITY_MATRIX.sys`
+
+```text
+user@system:~$ cat identity.sys
+👤  NAME        : Piyush Pandey
+💼  ROLE        : Full-Stack Engineer
+🌐  DOMAINS     : Web Development · DevOps · Cloud-Native · Distributed Systems
+</> STACK       : Next.js · Node.js · Go · Rust · Python · TypeScript
+🎯  FOCUS       : Scalable Backend Systems · Microservices · Performance · Reliability
+☁️  INFRA       : Kubernetes · Docker · CI/CD · AWS · Nginx · Linux
+🤖  AI / ML     : PyTorch · TensorFlow · ML Systems · Data Engineering
+⭐  INTERESTS   : Open Source · Dev Tools · System Design · Automation
+🛡️  SECURITY    : System Hardening · Secure Coding · Application Security
+📍  LOCATION    : India
+
+user@system:~$ █
+```
 
 ---
 
@@ -386,3 +391,4 @@ LOCATION   : India 🇮🇳
     srcset="https://capsule-render.vercel.app/api?type=waving&color=0:eaeef2,60:f6f8fa,100:ffffff&height=90&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,60:161b22,100:0d1117&height=90&section=footer" width="100%" alt="footer" />
 </picture>
+
