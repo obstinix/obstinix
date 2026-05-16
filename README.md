@@ -24,18 +24,28 @@
     </td>
     <td width="64%" valign="middle">
 
-<img src="https://img.icons8.com/fluency/22/star.png"/><img src="https://img.icons8.com/fluency/22/star.png"/><img src="https://img.icons8.com/fluency/22/star.png"/><img src="https://img.icons8.com/fluency/22/star.png"/><img src="https://img.icons8.com/color/22/star--v1.png"/> &nbsp;Developer Rating: 4 / 5
+### Piyush Pandey &nbsp;·&nbsp; Software Engineer
 
-### Piyush Pandey &nbsp;·&nbsp; obstinix
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2600&pause=900&color=3FB950&width=460&lines=%3E+Full+Stack+Engineering;%3E+DevOps+%26+Backend+Infrastructure;%3E+Cloud+Native+%26+Distributed+Systems;%3E+AI%2FML+Integration;%3E+Security+%26+Systems+Programming" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2600&pause=900&color=3FB950&width=460&lines=%3E+Role%3A+Full-Stack+%7C+DevOps+%7C+Cloud-Native;%3E+Learning%3A+Kubernetes+%7C+CI%2FCD+%7C+Distributed+Systems;%3E+Collab%3A+Open+Source+%7C+SaaS+%7C+Dev-Tools;%3E+Chess%3A+2035+Rapid+(Lichess)+%7C+1607+(Chess.com);%3E+Status%3A+[+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+]+Always+Shipping" alt="Typing SVG" />
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:obstinix@gmail.com)
+**Connect & Professional**<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushpandey23)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/obstinix)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ig_obstinate)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:obstinix@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@obstinix)
 [![Linktree](https://img.shields.io/badge/Linktree-43E660?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/piyushxpandey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ig_obstinate)
+
+**Competitive & Algorithms**<br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/obstinix)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/obstinix)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/obstinix)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/obstinix)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D35?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/obstinix)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/obstinix)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/obstinix)
+
+<br>
 
 [![Open for Collaboration](https://img.shields.io/badge/🤝_Open_For-Collaboration-238636?style=flat-square)](mailto:obstinix@gmail.com)
 [![Star my repos](https://img.shields.io/badge/⭐_Star_My-Repos-f1e05a?style=flat-square)](https://github.com/obstinix?tab=repositories)
@@ -53,55 +63,20 @@
 
 ### > IDENTITY_MATRIX.sys
 
+`	ext
+system_profile --fetch
+======================================================================
+NAME       : Piyush Pandey
+DOMAINS    : Full-Stack Web · DevOps · Cloud-Native Architecture
+STACK      : Next.js · Node.js · Go · Rust · Python
+FOCUS      : Scalable Microservices · Distributed Systems
+INTERESTS  : Open Source · Dev-Tools · High-Performance Backends
+INFRA      : Kubernetes · Docker · CI/CD Pipelines · AWS
+AI/ML      : PyTorch · TensorFlow · Applied Machine Learning
+SECURITY   : System Hardening · Application Security
+LOCATION   : India 🇮🇳
+======================================================================
 `
-╔══════════════════════════════════════════════════════════════════╗
-║  USER        : obstinix                                         ║
-║  NAME        : Piyush Pandey                                    ║
-║  FOCUS       : Full-Stack Web · DevOps · Cloud-Native           ║
-║  LEARNING    : Kubernetes · CI/CD · Distributed Systems         ║
-║  COLLAB      : Open Source · SaaS · Dev-Tools                   ║
-║  CHESS       : 2035 Rapid (Lichess) · 1607 Rapid (Chess.com)    ║
-║  FUN_FACT    : Tactical attacker ♟ · Rated on 2 platforms       ║
-║  LOCATION    : India 🇮🇳                                         ║
-║  MOTTO       : 1% better than yesterday                         ║
-║  STATUS      : [ ██████████ ] Always Shipping 🚀                ║
-╚══════════════════════════════════════════════════════════════════╝
-`
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--   TROPHIES — dual theme                                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### > TROPHY_CABINET.exe
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=obstinix&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-trophy.vercel.app/?username=obstinix&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-  <img src="https://github-profile-trophy.vercel.app/?username=obstinix&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Trophies" />
-</picture>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--   ACHIEVEMENTS                                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-### > ACHIEVEMENTS.dat
-
-<div align="center">
-
-![Arctic Code Vault](https://img.shields.io/badge/🏔️_Arctic_Code_Vault-Contributor-0077b5?style=for-the-badge&logo=github&logoColor=white)
-![Pull Shark 2×](https://img.shields.io/badge/🦈_Pull_Shark-2×-238636?style=for-the-badge&logo=github&logoColor=white)
-![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Unlocked-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![YOLO](https://img.shields.io/badge/🎯_YOLO-Certified-f1e05a?style=for-the-badge&logo=github&logoColor=black)
-
-</div>
 
 ---
 
@@ -363,40 +338,39 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--   CHESS — correct links for chess.com & lichess          -->
+<!--   TROPHIES — dual theme                                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### > CHESS_ENGINE.core — Rating Graph ♟
+### > TROPHY_CABINET.exe
 
 <div align="center">
-
-<img src="https://github.com/obstinix/obstinix/raw/main/assets/chess-ratings.svg" alt="Chess Rating Graph" width="80%" />
-
-[![Chess.com](https://img.shields.io/badge/Chess.com-obstinixx-769656?style=flat-square&logo=chess.com&logoColor=white)](https://www.chess.com/member/obstinixx)
-[![Lichess](https://img.shields.io/badge/Lichess-piyushggs-58a6ff?style=flat-square&logo=lichess&logoColor=white)](https://lichess.org/@/piyushggs)
-[![Style](https://img.shields.io/badge/Style-Tactical_Attacker_♟-EA6045?style=flat-square)](https://www.chess.com/member/obstinixx)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-trophy.vercel.app/?username=obstinix&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-profile-trophy.vercel.app/?username=obstinix&theme=flat&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=obstinix&theme=onestar&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="Trophies" />
+</picture>
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--   COMPETITIVE PLATFORMS                                   -->
+<!--   ACHIEVEMENTS                                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-### > NETWORK_PORTS.open — Competitive & Dev
+### > ACHIEVEMENTS.dat
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/obstinix)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/obstinix)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/obstinix)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/obstinix)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-298D35?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/obstinix)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/obstinix)
-[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?style=flat-square&logo=codesandbox&logoColor=white)](https://codesandbox.com/obstinix)
+![Arctic Code Vault](https://img.shields.io/badge/🏔️_Arctic_Code_Vault-Contributor-0077b5?style=for-the-badge&logo=github&logoColor=white)
+![Pull Shark 2×](https://img.shields.io/badge/🦈_Pull_Shark-2×-238636?style=for-the-badge&logo=github&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/⚡_Quickdraw-Unlocked-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![YOLO](https://img.shields.io/badge/🎯_YOLO-Certified-f1e05a?style=for-the-badge&logo=github&logoColor=black)
 
 </div>
+
+---
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=obstinix%40system%3A~%24+%7C+Thanks+for+visiting!;obstinix%40system%3A~%24+%7C+Star+something+if+you+liked+it+%E2%AD%90;obstinix%40system%3A~%24+%7C+Open+to+collabs+%26+connections!" alt="Footer typing" />
