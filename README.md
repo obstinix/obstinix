@@ -88,6 +88,7 @@ user@system:~$ █
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--   SKILL TREE — animated techstack-generator icons         -->
 <!--   (transparent bg, renders correctly in both modes)       -->
+<!--   FIX: Rust uses cdn.simpleicons.org for reliability      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### > SKILL_TREE.map — Tech Stack
@@ -104,7 +105,7 @@ user@system:~$ █
   <td align="center" width="90"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="55" height="55"/><br/><sub>Java</sub></td>
   <td align="center" width="90"><img src="https://techstack-generator.vercel.app/go-icon.svg" width="55" height="55"/><br/><sub>Go</sub></td>
   <td align="center" width="90"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/><br/><sub>Bash</sub></td>
-  <td align="center" width="90"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/><br/><sub>Rust</sub></td>
+  <td align="center" width="90"><img height="50" src="https://cdn.simpleicons.org/rust/CE422B"/><br/><sub>Rust</sub></td>
 </tr></table>
 
 **Frontend & Mobile**
@@ -181,22 +182,10 @@ user@system:~$ █
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--   GITHUB STATS — theme=transparent works in both modes    -->
+<!--   GITHUB STATS — Streak only (stats & top-langs removed)  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### > GITHUB_STATS.log
-
-<div align="center">
-
-<a href="https://github.com/obstinix">
-  <img src="https://github-readme-stats.vercel.app/api?username=obstinix&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=3fb950&icon_color=58a6ff&text_color=c9d1d9&ring_color=3fb950" height="175em" alt="GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/obstinix">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obstinix&layout=compact&hide_border=true&theme=transparent&title_color=3fb950&text_color=c9d1d9&langs_count=8" height="175em" alt="Top Languages" />
-</a>
-
-</div>
 
 <div align="center">
 <picture>
@@ -391,4 +380,3 @@ user@system:~$ █
     srcset="https://capsule-render.vercel.app/api?type=waving&color=0:eaeef2,60:f6f8fa,100:ffffff&height=90&section=footer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,60:161b22,100:0d1117&height=90&section=footer" width="100%" alt="footer" />
 </picture>
-
