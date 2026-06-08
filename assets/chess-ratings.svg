@@ -13,13 +13,13 @@
 <line x1="60" y1="100" x2="830" y2="100" stroke="#21262d" stroke-width="0.5"/><text x="54" y="104" text-anchor="end" font-family="monospace" font-size="10" fill="#8b949e">2200</text>
 
 <line x1="60" y1="280" x2="830" y2="280" stroke="#21262d" stroke-width="1"/>
-<rect x="100" y="329.6" width="50" height="-49.6" rx="3" fill="#FFD700" opacity="0.9"/><text x="125" y="324.6" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1052</text>
+<rect x="100" y="332.2" width="50" height="-52.2" rx="3" fill="#FFD700" opacity="0.9"/><text x="125" y="327.2" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1039</text>
 <rect x="160" y="223.4" width="50" height="56.6" rx="3" fill="#00FF9C" opacity="0.9"/><text x="185" y="218.4" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1583</text>
 <text x="155" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Bullet</text>
-<rect x="292" y="315.4" width="50" height="-35.4" rx="3" fill="#FFD700" opacity="0.9"/><text x="317" y="310.4" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1123</text>
+<rect x="292" y="314.0" width="50" height="-34.0" rx="3" fill="#FFD700" opacity="0.9"/><text x="317" y="309.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1130</text>
 <rect x="352" y="203.2" width="50" height="76.8" rx="3" fill="#00FF9C" opacity="0.9"/><text x="377" y="198.2" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1684</text>
 <text x="347" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Blitz</text>
-<rect x="485" y="209.0" width="50" height="71.0" rx="3" fill="#FFD700" opacity="0.9"/><text x="510" y="204.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1655</text>
+<rect x="485" y="218.6" width="50" height="61.4" rx="3" fill="#FFD700" opacity="0.9"/><text x="510" y="213.6" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1607</text>
 <rect x="545" y="133.0" width="50" height="147.0" rx="3" fill="#00FF9C" opacity="0.9"/><text x="570" y="128.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2035</text>
 <text x="540" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Rapid</text>
 <rect x="717" y="110.0" width="50" height="170.0" rx="3" fill="#00FF9C" opacity="0.9"/><text x="742" y="105.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2150</text>
