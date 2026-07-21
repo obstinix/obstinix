@@ -16,10 +16,10 @@
 <rect x="100" y="340.0" width="50" height="-60.0" rx="3" fill="#FFD700" opacity="0.9"/><text x="125" y="335.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1000</text>
 <rect x="160" y="230.4" width="50" height="49.6" rx="3" fill="#00FF9C" opacity="0.9"/><text x="185" y="225.4" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1548</text>
 <text x="155" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Bullet</text>
-<rect x="292" y="294.8" width="50" height="-14.8" rx="3" fill="#FFD700" opacity="0.9"/><text x="317" y="289.8" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1226</text>
-<rect x="352" y="224.8" width="50" height="55.2" rx="3" fill="#00FF9C" opacity="0.9"/><text x="377" y="219.8" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1576</text>
+<rect x="292" y="296.6" width="50" height="-16.6" rx="3" fill="#FFD700" opacity="0.9"/><text x="317" y="291.6" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1217</text>
+<rect x="352" y="214.4" width="50" height="65.6" rx="3" fill="#00FF9C" opacity="0.9"/><text x="377" y="209.4" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1628</text>
 <text x="347" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Blitz</text>
-<rect x="485" y="213.2" width="50" height="66.8" rx="3" fill="#FFD700" opacity="0.9"/><text x="510" y="208.2" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1634</text>
+<rect x="485" y="211.6" width="50" height="68.4" rx="3" fill="#FFD700" opacity="0.9"/><text x="510" y="206.6" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1642</text>
 <rect x="545" y="133.0" width="50" height="147.0" rx="3" fill="#00FF9C" opacity="0.9"/><text x="570" y="128.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2035</text>
 <text x="540" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Rapid</text>
 <rect x="717" y="110.0" width="50" height="170.0" rx="3" fill="#00FF9C" opacity="0.9"/><text x="742" y="105.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2150</text>
