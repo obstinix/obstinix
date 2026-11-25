@@ -14,13 +14,13 @@
 
 <line x1="60" y1="280" x2="830" y2="280" stroke="#21262d" stroke-width="1"/>
 <rect x="100" y="324.4" width="50" height="-44.4" rx="3" fill="#FFD700" opacity="0.9"/><text x="125" y="319.4" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1078</text>
-<rect x="160" y="226.2" width="50" height="53.8" rx="3" fill="#00FF9C" opacity="0.9"/><text x="185" y="221.2" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1569</text>
+<rect x="160" y="225.0" width="50" height="55.0" rx="3" fill="#00FF9C" opacity="0.9"/><text x="185" y="220.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1575</text>
 <text x="155" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Bullet</text>
 <rect x="292" y="287.8" width="50" height="-7.8" rx="3" fill="#FFD700" opacity="0.9"/><text x="317" y="282.8" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1261</text>
 <rect x="352" y="209.8" width="50" height="70.2" rx="3" fill="#00FF9C" opacity="0.9"/><text x="377" y="204.8" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">1651</text>
 <text x="347" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Blitz</text>
-<rect x="485" y="205.8" width="50" height="74.2" rx="3" fill="#FFD700" opacity="0.9"/><text x="510" y="200.8" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1671</text>
-<rect x="545" y="131.2" width="50" height="148.8" rx="3" fill="#00FF9C" opacity="0.9"/><text x="570" y="126.2" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2044</text>
+<rect x="485" y="204.2" width="50" height="75.8" rx="3" fill="#FFD700" opacity="0.9"/><text x="510" y="199.2" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">1679</text>
+<rect x="545" y="124.4" width="50" height="155.6" rx="3" fill="#00FF9C" opacity="0.9"/><text x="570" y="119.4" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2078</text>
 <text x="540" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Rapid</text>
 <rect x="717" y="110.0" width="50" height="170.0" rx="3" fill="#00FF9C" opacity="0.9"/><text x="742" y="105.0" text-anchor="middle" font-family="monospace" font-size="10" fill="#00FF9C">2150</text>
 <text x="732" y="300" text-anchor="middle" font-family="monospace" font-size="12" fill="#e6edf3">Classical</text>
